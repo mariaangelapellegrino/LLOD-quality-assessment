@@ -1,0 +1,29 @@
+KG id,KG name,Url file VoID,Availability VoID file
+dbpedia-ja,DBpedia in Japanese,http://ja.dbpedia.org/void.ttl,VoID file available
+eurosentiment,EuroSentiment,,VoID file absent
+saldo-rdf,SALDO-RDF,,VoID file absent
+swefn-rdf,SweFN-RDF,,VoID file absent
+lexinfo,lexinfo,http://lexinfo.net//.well-known/void,VoID file offline
+asit,Atlante Sintattico d'Italia (ASIt),http://purl.org/asit/alld/.well-known/void,VoID file offline
+omwn-cwn,Chinese WordNet (as part of Open Multilingual WordNet),http://compling.hss.ntu.edu.sg/omw//.well-known/void,VoID file absent
+olia,OLiA,http://purl.org/olia/.well-known/void,VoID file absent
+parole-simple-lexinfo-ontology-lexicons,Parole/Simple 'lexinfo' Ontology & lexicons,http://gilmere.upf.edu/corpus_data/ParoleSimpleOntology/ParoleOntology.html/.well-known/void,VoID file absent
+panlex,PanLex,http://panlex.org/.well-known/void,VoID file absent
+lemonuby,lemonUby,,VoID file absent
+framebase-schema,FrameBase schema,http://www.framebase.org//.well-known/void,VoID file offline
+lexvo,Lexvo,http://www.lexvo.org/linkeddata/void.rdf,VoID file available
+dbnary,dbnary,http://kaiko.getalp.org/about-dbnary/.well-known/void,VoID file absent
+geowordnet,GeoWordNet,http://geowordnet.semanticmatching.org//.well-known/void,VoID file absent
+premon,PreMOn (Predicate Model for Ontologies),http://premon.fbk.eu/.well-known/void,VoID file absent
+framester,Framester,https://w3id.org/framester/.well-known/void,VoID file available
+babelnet,BabelNet,,VoID file absent
+zhishi-lemon,zhishi.lemon,,VoID file absent
+wordnet-rdf,WordNet-RDF,,VoID file absent
+apertium-rdf,Apertium RDF,,VoID file absent
+open-bantu-isixhosa-lexicon,Open Bantu isiXhosa Lexicon,https://github.com/MMoOn-Project/OpenBantu/tree/master/xho/.well-known/void,VoID file absent
+omwn-hrv,Croatian WordNet (as part of Open Multilingual WordNet),http://compling.hss.ntu.edu.sg/omw//.well-known/void,VoID file absent
+LatinWordnetLiLa,Latin WordNet Revision in LiLa,http://lila-erc.eu/data/lexicalResources/LatinWordNet/Lexicon/.well-known/void,VoID file available
+LemmaBank,LiLa Lemma Bank,http://lila-erc.eu/data/id/lemma/LemmaBank/.well-known/void,VoID file available
+omwn-tha,Thai WordNet (as part of Open Multilingual WordNet),http://compling.hss.ntu.edu.sg/omw//.well-known/void,VoID file absent
+glottolog,Glottolog,http://glottolog.org/.well-known/void,VoID file absent
+wikidata,Wikidata,https://www.wikidata.org//.well-known/void,VoID file absent
