@@ -1,0 +1,32 @@
+KG id,KG name,Vocabularies,Sparql endpoint
+dbpedia-ja,DBpedia in Japanese,[],Available
+eurosentiment,EuroSentiment,-,offline
+saldo-rdf,SALDO-RDF,-,offline
+swefn-rdf,SweFN-RDF,-,offline
+lexinfo,lexinfo,-,-
+asit,asit,-,-
+omwn-cow,Chinese WordNet (as part of Open Multilingual WordNet),-,-
+olia,OLiA,-,-
+parole-simple-lexinfo-ontology-lexicons,Parole/Simple 'lexinfo' Ontology & lexicons,-,-
+panlex,PanLex,-,-
+lemonuby,lemonuby,-,-
+framebase-schema,FrameBase schema,-,-
+lexvo,Lexvo,['http://lexvo.org/ontology'],-
+dbnary,dbnary,[],Available
+geowordnet,GeoWordNet,-,-
+premon,PreMOn (Predicate Model for Ontologies),[],Available
+framester,Framester,[],Available
+babelnet,BabelNet,-,offline
+zhishi-me,Zhishi.me,-,-
+apertium-rdf,Apertium RDF,-,-
+open-bantu-isixhosa-lexicon,Open Bantu isiXhosa Lexicon,[],Available
+omwn-hrv,Croatian WordNet (as part of Open Multilingual WordNet),-,-
+LatinWordnetLiLa,Latin WordNet Revision in LiLa,[],-
+omwn-tha,Thai WordNet (as part of Open Multilingual WordNet),-,-
+glottolog,Glottolog,-,-
+wikidata,Wikidata,-,-
+,,,
+,LiLA & LIV,FALSE,Available
+,O-Dang! - Ontology of Dangerous Speech Messages,"['http://lila-erc.eu/ontologies/lila', 'http://www.w3.org/ns/lemon/ontolex']",Available
+,Qichwabase,FALSE,Available
+,Terminest,[],Available

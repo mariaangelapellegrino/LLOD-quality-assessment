@@ -1,0 +1,12 @@
+,SPARQL endpoint,URI deferenceability,Security,,Interlinking,,Interoperability,License,,amount of data,,
+,,,Login credentials - Authentication,HTTPS,SameAs,Skos,New vocab,Metadata,SE,metadata,SE,Media-type
+Apertium ,http://linguistic.linkeddata.es/sparql,0,FALSE,TRUE,22,0,[],FALSE,http://purl.oclc.org/NET/rdflicense/gpl-3.0	,300K,11Mln,
+DBnary,http://kaiko.getalp.org/sparql,"0,1",FALSE,TRUE,2,0,[],http://www.opendefinition.org/licenses/cc-by-sa,https://creativecommons.org/licenses/by/3.0/,415Mln,555Mln,
+DBpedia Japanese,https://ja.dbpedia.org/sparql,"0,2",FALSE,TRUE,155074434,43899,[],http://www.opendefinition.org/licenses/cc-by-sa,http://ja.wikipedia.org/wiki/ファイル:(blanche_hoschede-monet_le_jardin_a_giverny_6298187014357).jpg        ,71Mln,6MLD,
+Framester,https://w3id.org/framester/sparql,-1,FALSE,FALSE,1228107,723797,[],Creative Commons Attribution Share-Alike - cc-by-sa -	,https://creativecommons.org/licenses/by/3.0/        ,,,
+LiLA & LIV,https://lila-erc.eu/sparql,-,FALSE,TRUE,FALSE,FALSE,-,-,-,,,FALSE
+O-Dang! - Ontology of Dangerous Speech Messages,https://kgccc.di.unito.it/sparql/o-dang,"0,97",FALSE,TRUE,2,0,FALSE,-,"['http://www.wikidata.org/entity/Q18199165', 'Attribution-NonCommercial-ShareAlike 4.0 International', 'CC BY-NC 4.0']",,,[]
+Open Bantu isiXhosa Lexicon,http://rdf.corpora.uni-leipzig.de/sparql,"0,35",FALSE,TRUE,2819,0,[],http://www.opendefinition.org/licenses/cc-by-sa,https://creativecommons.org/licenses/by-nc/4.0/	,0,259K,
+PreMOn,https://premon.fbk.eu/sparql,"1,39",FALSE,TRUE,15886,0,[],http://www.opendefinition.org/licenses/cc-by-sa,-,32Mln,32Mln,
+Qichwabase,https://qichwa.wikibase.cloud/query/,-,FALSE,TRUE,FALSE,FALSE,-,-,-,,,FALSE
+Terminesp,https://linguistic.linkeddata.es/terminesp/sparql-editor/,"0,02",FALSE,TRUE,22,0,TRUE,-,"['http://purl.oclc.org/NET/rdflicense/gpl-3.0', 'http://purl.org/NET/rdflicense/cc-by-nc-sa%203.0', 'http://purl.org/NET/rdflicense/otra', 'http://purl.org/NET/rdflicense/cc-by%203.0', 'http://purl.org/NET/rdflicense/cc-by-nc-sa%202.0', 'http://purl.org/NET/rdflicense/sin%20especificar', 'http://purl.org/NET/rdflicense/cc-by%204.0cc-by-nc-sa%203.0', 'http://purl.org/NET/rdflicense/cc-by-nc-sa', 'http://purl.org/NET/rdflicense/cc-by%201.0', 'http://purl.org/NET/rdflicense/', 'http://purl.org/NET/rdflicense/cc-by_1.0']",,,[]

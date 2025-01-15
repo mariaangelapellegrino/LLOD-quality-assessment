@@ -1,0 +1,91 @@
+Ref.,Resource name
+Applying the canonical text services model to the Coptic SCRIPTORIUM,SCRIPTORIUM corpus
+Bilingual dictionary generation and enrichment via graph exploration,Apertium 
+Linking the Dictionary of Medieval Latin in the Czech Lands to the LiLa Knowledge Base,LiLA
+Modelling and Publishing the “Lexicon der indogermanischen Verben” as Linked Open Data,Lexicon der indogermanischen Verben (LIV)
+BabelNet 3.0: A core for linguistic linked data and NLP,BabelNet
+IndoWordNet conversion to web ontology language (OWL), IndoWordNet OWL
+Linguistic Linked Data in Chinese: The Case of ChineseWordNet,Chinese WordNet
+PAROLE/SIMPLE 'lemon' ontology and lexicons,"Original PAROLE/SIMPLE lexicons contain morphological, syntactic and semantic information, orga-
+nized according to a common model and to common linguistic specifications for 12 European languages"
+DBnary: Wiktionary as a Lemon-based multilingual lexical resource in RDF,DBnary
+Representing Swedish lexical resources in RDF with lemon,
+The LiLa Lemma Bank: A Knowledge Base of Latin Canonical Forms,LiLa
+Getting Quechua Closer to Final Users Through Knowledge Graphs,Quechua Knowledge Graph
+Interlinking slovene language datasets,integrated Slovenian Language Data
+Towards electronic lexicography for the Kurdish language,KurdishLex
+The apertium bilingual dictionaries on the web of data,Apertium
+Towards the establishment of a linguistic linked data network for Italian,ItalWordNet from http://datahub.io/dataset/iwn
+,PAROLE SIMPLE CLIPS from http://datahub.io/dataset/simple 
+Zhishi.Lemon: On publishing zhishi.me as linguistic linked open data,Zhishi.Lemon
+A linked open data approach for geolinguistics applications,ASIt
+Linking the Corpus CLaSSES to the LiLa Knowledge Base of Interoperable Linguistic Resources for Latin,CLaSSES
+MMoOn Core - The Multilingual Morpheme Ontology,MMoOn Core
+OLiA - Ontologies of Linguistic Annotation,
+Towards multilingual elexicography by means of linked (Open) Data,OntoLex
+"LemonUby - A large, interlinked, syntactically-rich lexical resource for ontologies",LemonUby
+Framebase: Representing N-ary relations using semantic frames,
+MMpedia: A Large-Scale Multi-modal Knowledge Graph,MMPedia
+An ontology of masters of the Babylonian Talmud,Talmud
+"Glottocodes: Identifiers linking families, languages and dialects to comprehensive reference information",
+Unifying Morphology Resources with OntoLex-Morph. A Case Study in German,Ontolex/Morphology
+A Morpheme-Based Paradigm for the Ontological Analysis of Modern Greek Derivational Morphology,MMoOn
+Towards the representation of etymological data on the semantic web,LemonETY
+Ontolex JeuxDeMots and its alignment to the linguistic linked open data cloud,Jeux De mots
+PreMOn: A lemon extension for exposing predicate models as linked data,PreMon Core
+Modeling Grammars with Knowledge Representation Methods: Subcategorization as a Test Case,OnSyDE
+Lemon-aid: using Lemon to aid quantitative historical linguistic analysis,QHL datset
+Challenges for the representation of morphology in ontology lexicons,OntoLex Lemon module for morphology
+Distant Reading in Digital Humanities: Case Study on the Serbian Part of the ELTeC Collection,SrpELTeC
+"CogNet2: A Multi-Level Frame Organized Knowledge Base Integrating Linguistic, World and Commonsense Knowledge",CogNet2
+Building DBpedia japanese and linked data cloud in japanese,DBpedia Japanese
+IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions,IEKG
+EUROSENTIMENT: Linked data sentiment analysis,EUROSENTIMENT
+Harnessing Il Manifesto Newspaper Archive for Knowledge Base Creation: Techniques and Findings in the MeMa Project,MeMa
+Onyx: A Linked Data approach to emotion representation,
+Sar-graphs: A language resource connecting linguistic knowledge with semantic relations from knowledge graphs,
+Lexvo.org: Language-related information for the Linguistic Linked Data cloud,Lexvo.org
+Supporting FrameNet Project with Semantic Web technologies,FrameNet
+New technologies for old Germanic. Resources and research on parallel bibles in older continental western Germanic,
+Harmonization of German lexical resources for opinion mining,
+Linking the Neulateinische Wortliste to the LiLa Knowledge Base of Interoperable Resources for Latin,LiLa
+Multilingual Knowledge Systems as Linguistic Linked Open Data,Coreon Multilingual Knolwedge System (MKS)
+O-Dang! The Ontology of Dangerous Speech Messages,O-Dang!
+Linked data for the Greek and Latin literatura analysis; [Datos enlazados para el análisis de la literatura grecolatina],LitComp
+VisualSem: A High-quality Knowledge Graph for Vision & Language,VisualSem
+Multilingual Knowledge Systems as Linguistic Linked Open Data for European Language Grid,Coreon
+On developing of the FrameNet-like resource for Tatar,TatVerbBank
+Creation and enrichment of a terminological knowledge graph in the legal domain,-
+Towards the modeling of polarity in a Latin knowledge base,part of lila
+EcoLexicon and by-products: Integrating and reusing terminological resources,EcoLexicon
+Language resources as linked data for the legal domain,Legal Knowledge Graph 
+Creating a Multilingual Terminological Resource using Linked Data: The case of Archaeological Domain in the Italian language,
+The LILA knowledge base of linguistic resources and NLP tools for latin,LiLa
+Lidioms: A multilingual linked idioms data set,LIDIOMS data set
+Practice of smart LSP lexicography: The case of a new botanical dictionary with Latvian as a basic language,New Botanical Latvian
+Interlinking through lemmas. The lexical collection of the lila knowledge base of linguistic resources for latin,Lila
+Lemon-tree: Representing topical thesauri on the semantic web,lemon tree
+Open Science for English historical corpus linguistics: Introducing the language change database,Language change database
+Linked open data for linguists: Publishing the hartmann von aue-portal in RDF,Der arme vn aue-portal RDF
+Creating linked data morphological language resources with MMoOn the Hebrew Morpheme Inventory,MMon
+Framester: A wide coverage linguistic linked data hub,Framester
+GeodomainWordNet: Linking the geonames ontology to WordNet,GeoWordNet
+APiCS-ligt: Towards semantic enrichment of interlinear glossed text,Apics-Ligt
+Countering language attrition with PanLex and the Web of Data,PanLex
+A Construction of Thai WordNet through Translation Equivalence,ThaiWordNet
+Porting the Latin WordNet onto OntoLex-Lemon,LatinWordNet
+TatWordNet: A linguistic linked open data-integrated WordNet resource for tatar,TatWordNet
+Tatar WordNet: The sources and the component parts,TatarWordNet
+"Preparation and usage of Xhosa lexicographical data for a multilingual, federated environment",Xhosa RDF
+Translation-based dictionary alignment for under-resourced Bantu languages,
+"A thesaurus of old English as linguistic linked data: Using OntoLex, SKOS and lemon-tree to Bring Topical Thesauri to the Semantic Web",
+The colloquial WordNet: Extending Princeton WordNet with neologisms,Colloquial WordNet
+Towards the integration of multilingual terminologies: An example of a linked data prototype,termespa
+Harmonizing different lemmatization strategies for building a knowledge base of linguistic resources for Latin,LILA 
+The Index Thomisticus Treebank as Linked Data in the LiLa Knowledge Base,LiLa
+Linguistic vs Encyclopaedic Knowledge. Classification of MWEs from Wikipedia Articles,BTB-WN
+RELATE: Generating a linguistically inspired Knowledge Graph for fine-grained emotion classification,RELATE
+PreMOn: LODifing linguistic predicate models,PreMOn
+Croatian Network Lexicon within the Syntactic and Semantic Framework and LLOD Cloud,CroWN
+Porting a crowd-sourced German lexical semantics resource to ontolex-lemon,OdeNet
+LiDO RDF: From a relational database to a linked data graph of linguistic terms and bibliographic data,LiDO RDF

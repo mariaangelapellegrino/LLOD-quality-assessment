@@ -1,0 +1,27 @@
+KG id,KG name,metadata-media-type
+dbpedia-ja,DBpedia in Japanese,"['api/sparql', 'HTML', 'meta/void']"
+eurosentiment,EuroSentiment,"['n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads', 'n-quads']"
+saldo-rdf,SALDO-RDF,"['url', 'GZ', 'api/sparql']"
+swefn-rdf,SweFN-RDF,"['gzip:ntriples', 'api/sparql', 'url']"
+lexinfo,lexinfo,['RDF']
+lexvo,Lexvo,"['meta/void', 'meta/rdf-schema', 'RDF']"
+asit,Atlante Sintattico d'Italia (ASIt),[]
+omwn-cow,Chinese WordNet (as part of Open Multilingual WordNet),"['application/zip', 'application/zip']"
+parole-simple-lexinfo-ontology-lexicons,Parole/Simple 'lexinfo' Ontology & lexicons,"['rdf/turtle', 'RDF', 'rdf/turtle', 'rdf/turtle', 'ttl', 'ttl']"
+panlex,PanLex,"['api/sparql', 'HTML', 'HTML', 'text/ntriples', 'text/turtle']"
+lemonuby,lemonUby,"['HTML', 'HTML']"
+framebase-schema,FrameBase schema,['rdf/turtle']
+dbnary,dbnary,"['linked data', 'HTML', 'HTML', 'api/sparql']"
+geowordnet,GeoWordNet,"['meta/void', 'RDF', 'meta/sitemap', 'CSV', 'HTML', 'WordNet']"
+premon,PreMOn (Predicate Model for Ontologies),"['RDF', 'api/sparql', 'owl, ontology, meta/owl', 'owl, ontology, meta/owl', 'RDF', 'text/html', 'application/pdf', '']"
+framester,Framester,['rdf/turtle']
+babelnet,BabelNet,"['RDF', 'RDF', 'api/sparql', 'HTML', 'HTML']"
+zhishi-me,Zhishi.me,['api/sparql']
+apertium-rdf,Apertium RDF,"['SPARQL', 'RDF', 'RDF', 'RDF', '']"
+open-bantu-isixhosa-lexicon,Open Bantu isiXhosa Lexicon,"['rdf/turtle', 'html or rdf/xml']"
+omwn-hrv,Croatian WordNet (as part of Open Multilingual WordNet),"['application/zip', 'text/x-bibtex', 'application/zip']"
+LatinWordnetLiLa,Latin WordNet Revision in LiLa,[]
+omwn-tha,Thai WordNet (as part of Open Multilingual WordNet),"['application/zip', 'text/x-bibtex', 'application/zip']"
+glottolog,Glottolog,"['zip:csv', 'zip:bib', 'application/x-ntriples', 'RDF', 'N3']"
+wikidata,Wikidata,"['api/json', 'JSON', 'RDF', 'application/ld+json; charset=UTF-8', 'application/ld+json; charset=UTF-8', 'text/html; charset=UTF-8', 'application/json; charset=UTF-8', 'application/rdf+xml; charset=UTF-8', 'text/turtle; charset=UTF-8', 'application/n-triples; charset=UTF-8', 'application/octet-stream', 'application/octet-stream', 'application/octet-stream', 'application/octet-stream']"
+olia,OLiA,"['HTML', 'rdf, owl', 'application/x-zip-compressed']"
