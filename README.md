@@ -20,3 +20,4 @@ Articles are attached to codes by two reviewers and their agreement.
 - **LLODsurvey-3_usedVocabularies.csv** - csv documenting used vocabularies of resources indexed in the [LLOD Cloud](https://linguistic-lod.org/llod-cloud).
 - **LLODsurvey-3_qualityAssessment-workingSPARQLendpoint.csv** - csv documenting the quality assessment of linguistic resources computed via [KGHeartBeat](http://www.isislab.it:12280/kgheartbeat).
 - **LLODsurvey-3_mediatypes.csv** - csv documenting mediatypes as reported in the LLOD Cloud.
+- **LLODsurvey-3_void.csv** - csv documenting void files as reported in the LLOD Cloud.
