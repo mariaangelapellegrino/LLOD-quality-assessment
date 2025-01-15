@@ -1,76 +1,76 @@
-Resource name,,Ref,Link,LLOD Cloud Link,Category,SPARQL endpoint,SE status,DUMP,DUMP status,License,Amount of Data ,Language
-Atlante Sintattico Italiano - ASIt,2014,\cite{buccio2014linked},,https://lod-cloud.net/dataset/asit,Linguistic Data Categories,-,-,"http://www.purl.org/ASIt/RDF/asit-schema.rdf, http://www.purl.org/asit/RDF, http://ims.dei.unipd.it/websites/ASIt/RDF/asit-data.rdf",OK,CC-BY-SA,420K,Italian
-Lexinfo,2014,\cite{borin2014representing},,https://lod-cloud.net/dataset/lexinfo,Linguistic Data Categories,-,-,http://www.lexinfo.net/ontology/2.0/lexinfo.rdf,OK,-,4K,Swedish
-FrameBase Schema,2015,\cite{rouces2015framebase},http://www.framebase.org,https://lod-cloud.net/dataset/framebase-schema,Other,-,-,https://www.framebase.org/data,OFFLINE,CC-BY,500K,
-LemonUby,2015,\cite{eckle2015lemonuby},,https://lod-cloud.net/dataset/lemonuby,Other,-,-,http://lemon-model.net/lexica/uby,OK,CC-BY-SA,33Mln,"English, German"
-Lexvo.org,2015,\cite{de2015lexvo},http://lexvo.org/,https://lod-cloud.net/dataset/lexvo,Other,-,-,http://www.lexvo.org/resources/lexvo_latest.rdf.gz,OK,CC-BY-SA,1Mln,
-OLiA,2015,\cite{chiarcos2015olia},https://acoli-repo.github.io/olia,https://lod-cloud.net/dataset/olia,Corpora,-,-,"https://sourceforge.net/projects/olia/files/latest/download, http://purl.org/olia/penn.owl#JJ, http://purl.org/olia, http://purl.org/olia/olia.owl",OK,CC-BY,44K,Multilingual
-PAROLE/SIMPLE,2015,\cite{villegas2015parole},https://www.cnr.it/en/institutes-databases/database/445/parole-simple-clips-lexicon,https://lod-cloud.net/dataset/simple,Lexicons and Dictionaries,-,-,http://www.languagelibrary.eu/owl/simple/inds/individualspointingtosinglefile,OK,CC-BY,370K triples,Italian
-OntoLex,2015,"\cite{declerck2015towards,Bettina2019}",https://www.w3.org/2016/05/ontolex/,,Linguistic Data Categories,-,-,https://github.com/ontolex/ontolex/tree/master/Ontologies,OK,,,-
-Zhishi.Lemon,2016,\cite{fang2016zhishi},,https://lod-cloud.net/dataset/zhishi-lemon,"Terminology, Thesauri, Knowledge Base",-,-,https://drive.google.com/file/d/0B8VUbXki5Q0ibEIzbkUxSnQ5Ulk/view?usp=sharing ,OFFLINE,CC-BY,7Mln,Chinese and Multilingual
-Coptic SCRIPTORIUM,2016,\cite{almas2016applying},"https://copticscriptorium.org, https://github.com/CopticScriptorium",,Corpora,-,,"https://github.com/CopticScriptorium/corpora relANNIS, PAULA XML, TEI XML and TreeTagger SGML (*.tt)",OK,CC BY 3.0/4.0,,Coptic
-IndoWordNet OWL,2016,\cite{nagvenkar2016indowordnet},http://nlp.unigoa.ac.in/indonet/owl,,Lexicons and Dictionaries,-,-,OWL,NO,,,Indian
-MMoOn,2016,"\cite{klimek2021mmoon,vasilogamvrakis2021morpheme,klimek2016creating}",https://github.com/MMoOn-Project/MMoOn,,Linguistic Data Categories,-,-,ttl,OK,CC BY 4.0,"500K circa > 430 classes, 37 object properties, five
-datatype properties and 301 instances ",Multilingual
-Onyx,2016,\cite{sanchez2016onyx},https://www.gsi.upm.es/ontologies/onyx/,,"Terminology, Thesauri, Knowledge Base",-,-,https://www.gsi.upm.es/ontologies/wnaffect/ns as xml,OK,-,,
+Resource name,,Ref,Link,LLOD Cloud Link,Category,SPARQL endpoint,SE status,DUMP,DUMP status,License,Amount of Data,Language,Degree of Connection,Clustering Coefficient,Centrality,Verifiability
+Apertium,2018,"\cite{goel2022bilingual,gracia2018apertium}",http://linguistic.linkeddata.es/apertium,YES,Lexicons and Dictionaries,http://linguistic.linkeddata.es/sparql,OK,Def. for each lang,OFFLINE,GPL 3.0,circa 10Mln,Pair-wise languages,2,1,0.001,0
+Apics-Ligt,2021,\cite{ionov2021apics},https://zenodo.org/records/5155753,,Linguistic Data Category,,,https://zenodo.org/records/5155753 as ttl,OK,CC-BY 4.0,,Multilingual,,,,
+Atlante Sintattico Italiano - ASIt,2014,\cite{buccio2014linked},,https://lod-cloud.net/dataset/asit,Linguistic Data Categories,-,-,"http://www.purl.org/ASIt/RDF/asit-schema.rdf, http://www.purl.org/asit/RDF, http://ims.dei.unipd.it/websites/ASIt/RDF/asit-data.rdf",OK,CC-BY-SA,420K,Italian,1,0,0.000,0
+BabelNet,2016,\cite{navigli2016babelnet},https://babelnet.org/,https://lod-cloud.net/dataset/babelnet,"Terminology, Thesauri, Knowledge Base",http://babelnet.org/sparql/,OFFLINE,https://babelnet.org/downloads,OFFLINE,CC-BY-NC-SA 3.0,2MLD,Multilingual,38,0.047,0.015,0
+BulNet - Bulgarian WordNet,2020,\cite{kancheva2020linguistic},https://dcl.bas.bg/en/products/resources/wordnet/; https://dcl.bas.bg/bulnet ,,Lexicons and Dictionaries,-,-,https://dcl.bas.bg/BulNet/general_en.html,OFFLINE,-,85K synsets,Bulgarian,,,,
+Chinese WordNet,2015,\cite{lee2015linguistic},https://bond-lab.github.io/cow,https://lod-cloud.net/dataset/omwn-cow,Lexicons and Dictionaries,,,https://github.com/bond-lab/cow,OK,CC BY 4.0,,Mandarin Chinese,1,0,0.000,0
+CogNet2,2023,\cite{wang2023cognet2},http://cognet.top,,"Terminology, Thesauri, Knowledge Base",,,RDF,,CC-BY-SA 4.0,,Multilingual,,,,
+Colloquial WordNet,2017,\cite{mccrae2017colloquial},https://colloqwn.linguistic-lod.org,As part of WordNet,Lexicons and Dictionaries,,,,,CC-BY 4.0,,English,2,1,0.001,0
+Coptic SCRIPTORIUM,2016,\cite{almas2016applying},"https://copticscriptorium.org, https://github.com/CopticScriptorium",,Corpora,-,,"https://github.com/CopticScriptorium/corpora relANNIS, PAULA XML, TEI XML and TreeTagger SGML (*.tt)",OK,CC BY 3.0/4.0,,Coptic,,,,
+CroWordNet,2019,\cite{orevskovic2019croatian},http://meta-share.ffzg.hr/repository/browse/croatian-wordnet,https://lod-cloud.net/dataset/omwn-hrv,Lexicons and Dictionaries,http://omwn.linguistic-lod.org/sparql/,OFFLINE,http://compling.hss.ntu.edu.sg/omw/wns/hrv+xml.zip,FAIL,CC-BY 3.0,,Croatian,1,0,0.000,0
+DBnary,2015,\cite{serasset2015dbnary},https://kaiko.getalp.org/about-dbnary/,https://lod-cloud.net/dataset/dbnary,"Terminology, Thesauri, Knowledge Base",http://kaiko.getalp.org/sparql,OK,http://kaiko.getalp.org/static/,OK,CC-BY-SA 3.0,1MLD,Multilingual,3,0,0.001,0.33
+DBpedia Japanese,2014,\cite{kato2014building},https://ja.dbpedia.org/,,"Terminology, Thesauri, Knowledge Base",https://ja.dbpedia.org/sparql,OK,https://ja.dbpedia.org/dumps/,OK,CC-BY-SA,80Mln,Japanese,14,0.143,0.006,0.33
 Der arme vn aue-portal RDF,2017,\cite{stolz2017linked},http://www.ebusiness-unibw.org/ontologies/hva/ah.html,,Corpora,-,-,".rdf	application/rdf+xml
 .n3	text/n3
-.nt	text/plain",OK,-,,German
-JeuxDeMots - JdM,2017,\cite{tchechmedjiev2017ontolex},https://www.jeuxdemots.org,,Linguistic Data Categories,-,-,-,-,-,-,French
-lemonETY,2018,\cite{khan2018towards},https://github.com/anasfkhan81/lemonEty,,Linguistic Data Categories,-,-,ttl,OK,-,,
-Language change database,2018,\cite{kesaniemi2018open},https://lcd.helsinki.fi,,Linguistic Data Category,-,-,-,-,-,-,English
-KurdishLex,2019,\cite{ahmadi2019towards},https://github.com/KurdishBLARK/KurdishLex,,Lexicons and Dictionaries,-,-,ttl ,OK,CC-BY-NC-SA 4.0,,"Hawrami.ttl
+.nt	text/plain",OK,-,,German,,,,
+EcoLexicon,2019,\cite{leon2019ecolexicon},http://ecolexicon.ugr.es,,"Terminology, Thesauri, Knowledge Base",-,-,-,-,CC-BY,"4,471 concepts and 23,528 terms","Multiligual (English, Spanish, German, French,
+Russian, and Modern Greek)",,,,
+EUROSENTIMENT,2014,\cite{sanchez2014eurosentiment},https://eurosentiment.readthedocs.io/en/master,https://lod-cloud.net/dataset/eurosentiment,Other,,,,,,,Multilingual,1,0,0.000,0
+FrameBase Schema,2015,\cite{rouces2015framebase},http://www.framebase.org,https://lod-cloud.net/dataset/framebase-schema,Other,-,-,https://www.framebase.org/data,OFFLINE,CC-BY,500K,,2,1,0.001,0
+FrameNet - FSI,2015,\cite{hauck2015supporting},https://framenet.icsi.berkeley.edu/node/5039,,Other,,,https://framenet.icsi.berkeley.edu/node/5574,OFFLINE,,,,,,,
+Framester,2016,\cite{gangemi2016framester},https://w3id.org/framester,https://lod-cloud.net/dataset/framester,"Terminology, Thesauri, Knowledge Base",https://w3id.org/framester/sparql,OK,https://figshare.com/articles/dataset/Framester/4994537?file=8447048 ttl,OK,CC-BY 4.0,32Mln,English,2,1,0.001,0.33
+GeoWordNet,2016,\cite{frontini2016geodomainwordnet},https://old.datahub.io/dataset/geowordnet,https://lod-cloud.net/dataset/geowordnet,"Terminology, Thesauri, Knowledge Base",,,https://old.datahub.io/dataset/geowordnet/resource/6e76558d-ca56-4739-b0e4-b85ee2a702ef as CSV,OK,CC-BY,54Mln,English and Italian,2,0,0.001,0
+Germanic parallel Bible corpus,2014,\cite{ChiarcosSukharevaMittmannetal2014},,,Corpora,,,,,,,German,,,,
+Glottolog,2022,\cite{forkel2022glottocodes},https://glottolog.org/,https://lod-cloud.net/dataset/glottolog,Linguistic Data Categories,-,-,https://glottolog.org/static/download/glottolog-language.n3.gz,OFFLINE,CC-BY-SA,10Mln,,2,1,0.001,0
+Harmonized German resources,2022,\cite{chiarcos2022unifying},https://github.com/acoli-repo/acoli-morph,,Linguistic Data Categories,-,-,HDT files,OK,-,,German/Multilingual,,,,
+Harmonized German resources - 2,2014,\cite{declerck2014harmonization},https://www.dfki.de/en/web/research/research-departments/language-technology/,,Lexicons and Dictionary,,,,,,,German/Multilingual,,,,
+IEKG - Commonsense Knowledge Graph for Idiomatic Expressions,2023,\cite{zeng2023iekg},https://github.com/zzeng13/IEKG/tree/master,,"Terminology, Thesauri, Knowledge Base",-,-,https://github.com/zzeng13/IEKG/tree/master/iekg_data as jsonl,OK,MIT license,56K,,,,,
+IndoWordNet OWL,2016,\cite{nagvenkar2016indowordnet},http://nlp.unigoa.ac.in/indonet/owl,,Lexicons and Dictionaries,-,-,OWL,NO,,,Indian,,,,
+JeuxDeMots - JdM,2017,\cite{tchechmedjiev2017ontolex},https://www.jeuxdemots.org,,Linguistic Data Categories,-,-,-,-,-,-,French,,,,
+KurdishLex,2019,\cite{ahmadi2019towards},https://github.com/KurdishBLARK/KurdishLex,,Lexicons and Dictionaries,-,-,ttl,OK,CC-BY-NC-SA 4.0,,"Hawrami.ttl
 Kurmanji.ttl
-Sorani.ttl"
-Open-de-WordNet - OdeNet,2019,\cite{declerck2019porting},https://github.com/hdaSprachtechnologie/odenet,,Lexicons and Dictionaries,-,-,xml,OK,CC-BY-SA 4.0,,German
-EcoLexicon,2019,\cite{leon2019ecolexicon},http://ecolexicon.ugr.es,,"Terminology, Thesauri, Knowledge Base",-,-,-,-,CC-BY,"4,471 concepts and 23,528 terms ","Multiligual (English, Spanish, German, French,
-Russian, and Modern Greek)"
-Thesaurus of Old English,2019,\cite{stolk2019thesaurus},https://oldenglishthesaurus.arts.gla.ac.uk,,"Terminology, Thesauri, Knowledge Base",-,-,not freely available,,non commercial,40K entries,Old English
-BulNet - Bulgarian WordNet,2020,\cite{kancheva2020linguistic},https://dcl.bas.bg/en/products/resources/wordnet/; https://dcl.bas.bg/bulnet ,,Lexicons and Dictionaries,-,-,https://dcl.bas.bg/BulNet/general_en.html,OFFLINE,-,85K synsets,Bulgarian
-VisualSem,2020,\cite{alberts2020visualsem},https://github.com/iacercalixto/visualsem,,"Terminology, Thesauri, Knowledge Base",-,-,"json, tgz in the GitHub",OFFLINE,BabelNet's non-commercial license,"90k nodes, 1.5M tuples, and 1.3M glosses and 930k images associated to nodes",Multilingual
-Glottolog,2022,\cite{forkel2022glottocodes},https://glottolog.org/,https://lod-cloud.net/dataset/glottolog,Linguistic Data Categories,-,-,https://glottolog.org/static/download/glottolog-language.n3.gz,OFFLINE,CC-BY-SA,10Mln,
-Talmud,2022,\cite{giovannetti2022ontology},https://www.talmud.it,,Linguistic Data Categories,-,-,-,-,,,Italian
-Harmonized German resources ,2022,\cite{chiarcos2022unifying},https://github.com/acoli-repo/acoli-morph,,Linguistic Data Categories,-,-,HDT files,OK,-,,German/Multilingual
-LitComp,2022,\cite{juan2022linked},http://litcomp.es; http://litcomp.es/ontology/litcomp.html,,Other,-,-,http://litcomp.es/ontology/litcomp.rdf as rdf,OK,-,,Spanish
-MMPedia,2023,\cite{wu2023mmpedia},https://github.com/Delicate2000/MMpedia,,Linguistic Data Categories,-,-,https://drive.google.com/drive/folders/13GFHEfKMw9rAR0IvLB46L39UF5fYN9FY ttl and json,OK,CC-BY-NC 4.0,,
-OnSyDE,2023,\cite{aranovich2023modeling},https://github.com/RaulAranovich/OnSyDE/tree/main,,Linguistic Data Categories,-,-,https://github.com/RaulAranovich/OnSyDE/tree/main as owl,OK,-,,
-IEKG - Commonsense Knowledge Graph for Idiomatic Expressions,2023,\cite{zeng2023iekg},https://github.com/zzeng13/IEKG/tree/master,,"Terminology, Thesauri, Knowledge Base",-,-,https://github.com/zzeng13/IEKG/tree/master/iekg_data as jsonl,OK,MIT license,56K,
-BabelNet,2016,\cite{navigli2016babelnet},https://babelnet.org/,https://lod-cloud.net/dataset/babelnet,"Terminology, Thesauri, Knowledge Base",http://babelnet.org/sparql/,OFFLINE,https://babelnet.org/downloads,OFFLINE,CC-BY-NC-SA 3.0,2MLD,Multilingual
-DBnary,2015,\cite{serasset2015dbnary},https://kaiko.getalp.org/about-dbnary/,https://lod-cloud.net/dataset/dbnary,"Terminology, Thesauri, Knowledge Base",http://kaiko.getalp.org/sparql,OK,http://kaiko.getalp.org/static/,OK,CC-BY-SA 3.0,1MLD,Multilingual
-PanLex,2015,\cite{westphal2015countering},http://panlex.org,https://lod-cloud.net/dataset/panlex,Lexicons and Dictionary,http://ld.panlex.org/sparql,OFFLINE,http://ld.panlex.org/downloads/releases/2013-02-14/2013-02-14-panlex-dump.nt,OFFLINE,-,800Mln,
-LIDIOMS data set,2018,\cite{moussallem2018lidioms},https://github.com/dice-group/LIdioms,,Lexicons and Dictionary,http://lid.aksw.org/sparql,OFFLINE,in the github ttl,OK,GNU Affero General Public License v3.0,,"Multilingual (English, German, Italian, Portuguese, and Russian)"
-LiDo RDF,2018,\cite{klimek2018lido},https://github.com/AKSW/lido2rdf,,"Terminology, Thesauri, Knowledge Base",http://lidordf.aksw.org/sparq,OFFLINE,https://github.com/AKSW/lido2rdf as ttl,OK,-,,German
-Apertium ,2018,"\cite{goel2022bilingual,gracia2018apertium}",http://linguistic.linkeddata.es/apertium,YES,Lexicons and Dictionaries,http://linguistic.linkeddata.es/sparql,OK ,Def. for each lang,OFFLINE,GPL 3.0,circa 10Mln,Pair-wise languages
-CroWordNet,2019,\cite{orevskovic2019croatian},http://meta-share.ffzg.hr/repository/browse/croatian-wordnet,https://lod-cloud.net/dataset/omwn-hrv,Lexicons and Dictionaries,http://omwn.linguistic-lod.org/sparql/,OFFLINE,http://compling.hss.ntu.edu.sg/omw/wns/hrv+xml.zip,FAIL,CC-BY 3.0,,Croatian
-ThaiWordNet,2022,\cite{leenoi2022construction},http://compling.hss.ntu.edu.sg/omw ,https://lod-cloud.net/dataset/omwn-tha,Lexicons and Dictionaries,http://omwn.linguistic-lod.org/sparql/,OFFLINE,http://compling.hss.ntu.edu.sg/omw/wns/tha+xml.zip,OFFLINE,WordNet,704K,Thai
-Open Bantu isiXhosa Lexicon,2018,"\cite{bosch2018preparation,eckart2019translation}",https://github.com/MMoOn-Project/OpenBantu/blob/master/xho/inventory/ob_xho.ttl,https://lod-cloud.net/dataset/open-bantu-isixhosa-lexicon,Lexicons and Dictionaries,http://rdf.corpora.uni-leipzig.de/sparql,OK,https://github.com/MMoOn-Project/OpenBantu/tree/master as ttl,OK,CC-BY-SA,259K,Bantu
-SALDO-RDF,2014,\cite{borin2014representing},,https://lod-cloud.net/dataset/saldo-rdf,Linguistic Data Categories,https://demo.spraakbanken.gu.se/ltlod/test/,-,https://ckannet-storage.commondatastorage.googleapis.com/2014-10-17T09:29:36.634Z/saldo-nt.gz,FAIL,CC-BY,0,Swedish
-Swedish FrameNet - SweFN-RDF,2014,\cite{borin2014representing},https://spraakbanken.gu.se/en/resources/swefn,https://lod-cloud.net/dataset/swefn-rdf,Linguistic Data Categories,https://demo.spraakbanken.gu.se/ltlod/test/,-,https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/swefn/swefn.xml,OK,CC-BY,340K,Swedish
-DBpedia Japanese,2014,\cite{kato2014building},https://ja.dbpedia.org/,,"Terminology, Thesauri, Knowledge Base",https://ja.dbpedia.org/sparql,OK,https://ja.dbpedia.org/dumps/,OK,CC-BY-SA,80Mln,Japanese
-O-Dang! - Ontology of Dangerous Speech Messages,2022,\cite{stranisci2022dang},https://github.com/marcostranisci/o-dang,,"Terminology, Thesauri, Knowledge Base",https://kgccc.di.unito.it/sparql/o-dang,OK,https://github.com/marcostranisci/o-dang/blob/main/o-dang.owl as owl,,-,100,Italian
-LiLA,2019,"\cite{gamba2023linking,iurescia2023linking,Mambrini-2023,lucia2023linking,sprugnoli2020towards,passarotti2019lila,passarotti2020interlinking,mambrini2019harmonizing,mambrini2022index}",http://lila-erc.eu,https://lod-cloud.net/dataset/LemmaBank,"Terminology, Thesauri, Knowledge Base",https://lila-erc.eu/sparql,OK ,https://github.com/CIRCSE/LiLa_Lemma-Bank,OK,CC BY SA,1Mln,Latin
-Lexicon der indogermanischen Verben (LIV),2023,\cite{boano2023modelling},https://github.com/CIRCSE/LIV/tree/main,https://lod-cloud.net/dataset/LemmaBank,"Terminology, Thesauri, Knowledge Base",https://lila-erc.eu/sparql,OK ,TTL e OWL,OK,CC BY SA,14K,Latin
-Latin WordNet Revision in LiLa,2019,\cite{racioppa2019porting},https://lila-erc.eu/data/lexicalResources/LatinWordNet/Lexicon,https://lod-cloud.net/dataset/LatinWordnetLiLa,Lexicons and Dictionaries,https://lila-erc.eu/sparql/lila_knowledge_base/sparql,OFFLINE,https://github.com/CIRCSE/latinWordnet-revision ttl,OK,CC-BY-SA 4.0,467K,Latin
-Terminesp,2015,\cite{montiel2015towards},https://linguistic.linkeddata.es/terminesp/,,"Terminology, Thesauri, Knowledge Base",https://linguistic.linkeddata.es/terminesp/sparql-editor/,OFFLINE,https://figshare.com/articles/dataset/Terminesp_RDF/1344810?file=2043775 as ttl,OK,GPL 3.0,11Mln,Spanish and Multilingual
-PreMOn,2016,"\cite{corcoglioniti2016premon,rospocher2019premon}",http://premon.fbk.eu,https://lod-cloud.net/dataset/premon,Other,https://premon.fbk.eu/sparql,OK,https://premon.fbk.eu/download.html,OK,CC-BY-SA,65Mln,Multilingual
-Qichwabase,2022,\cite{huaman2022getting},https://qichwa.wikibase.cloud/wiki/Qichwabase,,Lexicons and Dictionaries,https://qichwa.wikibase.cloud/query/,OK,-,-,CC0-1.0 license,1Mln,"Quechua and Quechua words into other languages, e.g. English, German, Italian, and Spanish"
-Framester,2016,\cite{gangemi2016framester},https://w3id.org/framester,https://lod-cloud.net/dataset/framester,"Terminology, Thesauri, Knowledge Base",https://w3id.org/framester/sparql,OK,https://figshare.com/articles/dataset/Framester/4994537?file=8447048 ttl,OK,CC-BY 4.0,32Mln,English
-Germanic parallel Bible corpus,2014,\cite{ChiarcosSukharevaMittmannetal2014},,,Corpora,,,,,,,German
-Old German Reference Corpus,2014,\cite{ChiarcosSukharevaMittmannetal2014},http://www.laudatio.org,,Corpora,,,,,CC-BY-SA,,German
-Harmonized German resources - 2,2014,\cite{declerck2014harmonization},https://www.dfki.de/en/web/research/research-departments/language-technology/,,Lexicons and Dictionary,,,,,,,German/Multilingual
-EUROSENTIMENT,2014,\cite{sanchez2014eurosentiment},https://eurosentiment.readthedocs.io/en/master,https://lod-cloud.net/dataset/eurosentiment,Other,,,,,,,Multilingual
-Chinese WordNet,2015,\cite{lee2015linguistic},https://bond-lab.github.io/cow ,https://lod-cloud.net/dataset/omwn-cow,Lexicons and Dictionaries,,,https://github.com/bond-lab/cow,OK,CC BY 4.0,,Mandarin Chinese
-FrameNet - FSI,2015,\cite{hauck2015supporting},https://framenet.icsi.berkeley.edu/node/5039,,Other,,,https://framenet.icsi.berkeley.edu/node/5574,OFFLINE,,,
-Sar-graph,2016,\cite{krause2016sar},http://sargraph.dfki.de,,Other,,,,,,"3,568 nodes, 9,045 edges",
-GeoWordNet,2016,\cite{frontini2016geodomainwordnet},https://old.datahub.io/dataset/geowordnet,https://lod-cloud.net/dataset/geowordnet,"Terminology, Thesauri, Knowledge Base",,,https://old.datahub.io/dataset/geowordnet/resource/6e76558d-ca56-4739-b0e4-b85ee2a702ef as CSV,OK,CC-BY,54Mln,English and Italian
-Colloquial WordNet,2017,\cite{mccrae2017colloquial},https://colloqwn.linguistic-lod.org,As part of WordNet,Lexicons and Dictionaries,,,,,CC-BY 4.0,,English
-New Botanical Latvian,2019,\cite{svicke2019practice},,,Lexicons and Dictionaries,,,,,,,
-Legal Knowledge Graph ,2019,\cite{martin2019language},http://data.lynx-project.eu/,,Other,,,,,,,
-lemon tree,2019,\cite{stolk2019lemon},https://ssstolk.github.io/onto/lemon-tree/,,Other,,,https://github.com/ssstolk/ssstolk.github.io/blob/master/onto/lemon-tree/lemon-tree.ttl ,OK,-,,
-TatVerbBank,2020,\cite{Gatiatullin2020},,,Linguistic Data Category,,,,,,,Tatar
-TatarWordNet,2021,"\cite{kirillovich2021tatwordnet,kirillovich2020tatar}",http://lod.wordnet.tatar/,,Lexicons and Dictionaries,,,,,,5.5K,Tatar
-Apics-Ligt,2021,\cite{ionov2021apics},https://zenodo.org/records/5155753,,Linguistic Data Category,,,https://zenodo.org/records/5155753 as ttl,OK,CC-BY 4.0,,Multilingual
-SrpELTeC,2022,\cite{stankovic2022distant},,\sim Part of wikidata,Other,,,,,,,Serbian
-RELATE,2022,\cite{schoene2022relate},,,Other ,,,,,,"42,646",
-MeMa,2023,\cite{alexander2023harnessing},https://ilmanifesto.it/mema,,Other,,,,,,,Italian
-CogNet2,2023,\cite{wang2023cognet2},http://cognet.top,,"Terminology, Thesauri, Knowledge Base",,,RDF ,,CC-BY-SA 4.0,,Multilingual
+Sorani.ttl",,,,
+Language change database,2018,\cite{kesaniemi2018open},https://lcd.helsinki.fi,,Linguistic Data Category,-,-,-,-,-,-,English,,,,
+Latin WordNet Revision in LiLa,2019,\cite{racioppa2019porting},https://lila-erc.eu/data/lexicalResources/LatinWordNet/Lexicon,https://lod-cloud.net/dataset/LatinWordnetLiLa,Lexicons and Dictionaries,https://lila-erc.eu/sparql/lila_knowledge_base/sparql,OFFLINE,https://github.com/CIRCSE/latinWordnet-revision ttl,OK,CC-BY-SA 4.0,467K,Latin,2,1,0.001,0
+Legal Knowledge Graph,2019,\cite{martin2019language},http://data.lynx-project.eu/,,Other,,,,,,,,,,,
+lemon tree,2019,\cite{stolk2019lemon},https://ssstolk.github.io/onto/lemon-tree/,,Other,,,https://github.com/ssstolk/ssstolk.github.io/blob/master/onto/lemon-tree/lemon-tree.ttl,OK,-,,,,,,
+lemonETY,2018,\cite{khan2018towards},https://github.com/anasfkhan81/lemonEty,,Linguistic Data Categories,-,-,ttl,OK,-,,,,,,
+LemonUby,2015,\cite{eckle2015lemonuby},,https://lod-cloud.net/dataset/lemonuby,Other,-,-,http://lemon-model.net/lexica/uby,OK,CC-BY-SA,33Mln,"English, German",9,0.167,0.004,0
+Lexicon der indogermanischen Verben (LIV),2023,\cite{boano2023modelling},https://github.com/CIRCSE/LIV/tree/main,https://lod-cloud.net/dataset/LemmaBank,"Terminology, Thesauri, Knowledge Base",https://lila-erc.eu/sparql,OK,TTL e OWL,OK,CC BY SA,14K,Latin,21,0.010,0.008,0
+Lexinfo,2014,\cite{borin2014representing},,https://lod-cloud.net/dataset/lexinfo,Linguistic Data Categories,-,-,http://www.lexinfo.net/ontology/2.0/lexinfo.rdf,OK,-,4K,Swedish,37,0.036,0.015,0
+Lexvo.org,2015,\cite{de2015lexvo},http://lexvo.org/,https://lod-cloud.net/dataset/lexvo,Other,-,-,http://www.lexvo.org/resources/lexvo_latest.rdf.gz,OK,CC-BY-SA,1Mln,,39,0.054,0.015,0.33
+LIDIOMS data set,2018,\cite{moussallem2018lidioms},https://github.com/dice-group/LIdioms,,Lexicons and Dictionary,http://lid.aksw.org/sparql,OFFLINE,in the github ttl,OK,GNU Affero General Public License v3.0,,"Multilingual (English, German, Italian, Portuguese, and Russian)",,,,
+LiDo RDF,2018,\cite{klimek2018lido},https://github.com/AKSW/lido2rdf,,"Terminology, Thesauri, Knowledge Base",http://lidordf.aksw.org/sparq,OFFLINE,https://github.com/AKSW/lido2rdf as ttl,OK,-,,German,,,,
+LiLA,2019,"\cite{gamba2023linking,iurescia2023linking,Mambrini-2023,lucia2023linking,sprugnoli2020towards,passarotti2019lila,passarotti2020interlinking,mambrini2019harmonizing,mambrini2022index}",http://lila-erc.eu,https://lod-cloud.net/dataset/LemmaBank,"Terminology, Thesauri, Knowledge Base",https://lila-erc.eu/sparql,OK,https://github.com/CIRCSE/LiLa_Lemma-Bank,OK,CC BY SA,1Mln,Latin,21,0.010,0.008,0
+LitComp,2022,\cite{juan2022linked},http://litcomp.es; http://litcomp.es/ontology/litcomp.html,,Other,-,-,http://litcomp.es/ontology/litcomp.rdf as rdf,OK,-,,Spanish,,,,
+MeMa,2023,\cite{alexander2023harnessing},https://ilmanifesto.it/mema,,Other,,,,,,,Italian,,,,
+MMoOn,2016,"\cite{klimek2021mmoon,vasilogamvrakis2021morpheme,klimek2016creating}",https://github.com/MMoOn-Project/MMoOn,,Linguistic Data Categories,-,-,ttl,OK,CC BY 4.0,"500K circa > 430 classes, 37 object properties, five
+datatype properties and 301 instances",Multilingual,,,,
+MMPedia,2023,\cite{wu2023mmpedia},https://github.com/Delicate2000/MMpedia,,Linguistic Data Categories,-,-,https://drive.google.com/drive/folders/13GFHEfKMw9rAR0IvLB46L39UF5fYN9FY ttl and json,OK,CC-BY-NC 4.0,,,,,,
+New Botanical Latvian,2019,\cite{svicke2019practice},,,Lexicons and Dictionaries,,,,,,,,,,,
+O-Dang! - Ontology of Dangerous Speech Messages,2022,\cite{stranisci2022dang},https://github.com/marcostranisci/o-dang,,"Terminology, Thesauri, Knowledge Base",https://kgccc.di.unito.it/sparql/o-dang,OK,https://github.com/marcostranisci/o-dang/blob/main/o-dang.owl as owl,,-,100,Italian,,,,
+Old German Reference Corpus,2014,\cite{ChiarcosSukharevaMittmannetal2014},http://www.laudatio.org,,Corpora,,,,,CC-BY-SA,,German,,,,
+OLiA,2015,\cite{chiarcos2015olia},https://acoli-repo.github.io/olia,https://lod-cloud.net/dataset/olia,Corpora,-,-,"https://sourceforge.net/projects/olia/files/latest/download, http://purl.org/olia/penn.owl#JJ, http://purl.org/olia, http://purl.org/olia/olia.owl",OK,CC-BY,44K,Multilingual,74,0.001,0.029,0
+OnSyDE,2023,\cite{aranovich2023modeling},https://github.com/RaulAranovich/OnSyDE/tree/main,,Linguistic Data Categories,-,-,https://github.com/RaulAranovich/OnSyDE/tree/main as owl,OK,-,,,,,,
+OntoLex,2015,"\cite{declerck2015towards,Bettina2019}",https://www.w3.org/2016/05/ontolex/,,Linguistic Data Categories,-,-,https://github.com/ontolex/ontolex/tree/master/Ontologies,OK,,,-,,,,
+Onyx,2016,\cite{sanchez2016onyx},https://www.gsi.upm.es/ontologies/onyx/,,"Terminology, Thesauri, Knowledge Base",-,-,https://www.gsi.upm.es/ontologies/wnaffect/ns as xml,OK,-,,,,,,
+Open Bantu isiXhosa Lexicon,2018,"\cite{bosch2018preparation,eckart2019translation}",https://github.com/MMoOn-Project/OpenBantu/blob/master/xho/inventory/ob_xho.ttl,https://lod-cloud.net/dataset/open-bantu-isixhosa-lexicon,Lexicons and Dictionaries,http://rdf.corpora.uni-leipzig.de/sparql,OK,https://github.com/MMoOn-Project/OpenBantu/tree/master as ttl,OK,CC-BY-SA,259K,Bantu,1,0,0.000,1.07
+Open-de-WordNet - OdeNet,2019,\cite{declerck2019porting},https://github.com/hdaSprachtechnologie/odenet,,Lexicons and Dictionaries,-,-,xml,OK,CC-BY-SA 4.0,,German,,,,
+PanLex,2015,\cite{westphal2015countering},http://panlex.org,https://lod-cloud.net/dataset/panlex,Lexicons and Dictionary,http://ld.panlex.org/sparql,OFFLINE,http://ld.panlex.org/downloads/releases/2013-02-14/2013-02-14-panlex-dump.nt,OFFLINE,-,800Mln,,,,,
+PAROLE/SIMPLE,2015,\cite{villegas2015parole},https://www.cnr.it/en/institutes-databases/database/445/parole-simple-clips-lexicon,https://lod-cloud.net/dataset/simple,Lexicons and Dictionaries,-,-,http://www.languagelibrary.eu/owl/simple/inds/individualspointingtosinglefile,OK,CC-BY,370K triples,Italian,1,0,0.000,0
+PreMOn,2016,"\cite{corcoglioniti2016premon,rospocher2019premon}",http://premon.fbk.eu,https://lod-cloud.net/dataset/premon,Other,https://premon.fbk.eu/sparql,OK,https://premon.fbk.eu/download.html,OK,CC-BY-SA,65Mln,Multilingual,4,0.167,0.002,1.07
+Qichwabase,2022,\cite{huaman2022getting},https://qichwa.wikibase.cloud/wiki/Qichwabase,,Lexicons and Dictionaries,https://qichwa.wikibase.cloud/query/,OK,-,-,CC0-1.0 license,1Mln,"Quechua and Quechua words into other languages, e.g. English, German, Italian, and Spanish",,,,
+RELATE,2022,\cite{schoene2022relate},,,Other,,,,,,"42,646",,,,,
+SALDO-RDF,2014,\cite{borin2014representing},,https://lod-cloud.net/dataset/saldo-rdf,Linguistic Data Categories,https://demo.spraakbanken.gu.se/ltlod/test/,-,https://ckannet-storage.commondatastorage.googleapis.com/2014-10-17T09:29:36.634Z/saldo-nt.gz,FAIL,CC-BY,0,Swedish,1,0,0.000,0
+Sar-graph,2016,\cite{krause2016sar},http://sargraph.dfki.de,,Other,,,,,,"3,568 nodes, 9,045 edges",,,,,
+SrpELTeC,2022,\cite{stankovic2022distant},,\sim Part of wikidata,Other,,,,,,,Serbian,95,0.02,0.037,0.33
+Swedish FrameNet - SweFN-RDF,2014,\cite{borin2014representing},https://spraakbanken.gu.se/en/resources/swefn,https://lod-cloud.net/dataset/swefn-rdf,Linguistic Data Categories,https://demo.spraakbanken.gu.se/ltlod/test/,-,https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/swefn/swefn.xml,OK,CC-BY,340K,Swedish,1,0,0.000,0
+Talmud,2022,\cite{giovannetti2022ontology},https://www.talmud.it,,Linguistic Data Categories,-,-,-,-,,,Italian,,,,
+TatarWordNet,2021,"\cite{kirillovich2021tatwordnet,kirillovich2020tatar}",http://lod.wordnet.tatar/,,Lexicons and Dictionaries,,,,,,5.5K,Tatar,,,,
+TatVerbBank,2020,\cite{Gatiatullin2020},,,Linguistic Data Category,,,,,,,Tatar,,,,
+Terminesp,2015,\cite{montiel2015towards},https://linguistic.linkeddata.es/terminesp/,,"Terminology, Thesauri, Knowledge Base",https://linguistic.linkeddata.es/terminesp/sparql-editor/,OFFLINE,https://figshare.com/articles/dataset/Terminesp_RDF/1344810?file=2043775 as ttl,OK,GPL 3.0,11Mln,Spanish and Multilingual,,,,
+ThaiWordNet,2022,\cite{leenoi2022construction},http://compling.hss.ntu.edu.sg/omw,https://lod-cloud.net/dataset/omwn-tha,Lexicons and Dictionaries,http://omwn.linguistic-lod.org/sparql/,OFFLINE,http://compling.hss.ntu.edu.sg/omw/wns/tha+xml.zip,OFFLINE,WordNet,704K,Thai,1,0,0.000,0
+Thesaurus of Old English,2019,\cite{stolk2019thesaurus},https://oldenglishthesaurus.arts.gla.ac.uk,,"Terminology, Thesauri, Knowledge Base",-,-,not freely available,,non commercial,40K entries,Old English,,,,
+VisualSem,2020,\cite{alberts2020visualsem},https://github.com/iacercalixto/visualsem,,"Terminology, Thesauri, Knowledge Base",-,-,"json, tgz in the GitHub",OFFLINE,BabelNet's non-commercial license,"90k nodes, 1.5M tuples, and 1.3M glosses and 930k images associated to nodes",Multilingual,,,,
+Zhishi.Lemon,2016,\cite{fang2016zhishi},,https://lod-cloud.net/dataset/zhishi-lemon,"Terminology, Thesauri, Knowledge Base",-,-,https://drive.google.com/file/d/0B8VUbXki5Q0ibEIzbkUxSnQ5Ulk/view?usp=sharing,OFFLINE,CC-BY,7Mln,Chinese and Multilingual,4,0,0.002,0
